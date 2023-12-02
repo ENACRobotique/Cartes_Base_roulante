@@ -5103,7 +5103,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 262.89 148.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2699c9ec-9d0a-4bec-9f0c-2a13cdafc77c)
-    (property "Reference" "TP_GND" (at 254 148.59 90)
+    (property "Reference" "TP_GND1" (at 254 148.59 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 248.92 148.59 90)
@@ -5119,7 +5119,7 @@
     (instances
       (project "Carte_Base_roulante_2024"
         (path "/f941aee9-3a44-439b-9c30-032c53e86031"
-          (reference "TP_GND") (unit 1)
+          (reference "TP_GND1") (unit 1)
         )
       )
     )
