@@ -7161,7 +7161,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 275.59 92.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b0ac40fc-eb4f-4a36-b7b5-f9fc0e707831)
-    (property "Reference" "J5" (at 274.955 85.09 0)
+    (property "Reference" "ENC_C1" (at 274.955 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ENCC" (at 274.955 87.63 0)
@@ -7180,7 +7180,7 @@
     (instances
       (project "Carte_Base_roulante_2024"
         (path "/f941aee9-3a44-439b-9c30-032c53e86031"
-          (reference "J5") (unit 1)
+          (reference "ENC_C1") (unit 1)
         )
       )
     )
@@ -7370,7 +7370,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 256.54 92.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c3e4a648-c0ff-4cb3-a917-406d62b0c621)
-    (property "Reference" "J4" (at 256.54 85.09 0)
+    (property "Reference" "ENC_B1" (at 256.54 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ENCB" (at 255.905 87.63 0)
@@ -7389,7 +7389,7 @@
     (instances
       (project "Carte_Base_roulante_2024"
         (path "/f941aee9-3a44-439b-9c30-032c53e86031"
-          (reference "J4") (unit 1)
+          (reference "ENC_B1") (unit 1)
         )
       )
     )
@@ -7453,7 +7453,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 236.22 92.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca6900b0-635c-4e50-9c2e-9e514bc262e0)
-    (property "Reference" "J11" (at 235.585 85.09 0)
+    (property "Reference" "ENC_A1" (at 235.585 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ENCA" (at 235.585 87.63 0)
@@ -7472,7 +7472,7 @@
     (instances
       (project "Carte_Base_roulante_2024"
         (path "/f941aee9-3a44-439b-9c30-032c53e86031"
-          (reference "J11") (unit 1)
+          (reference "ENC_A1") (unit 1)
         )
       )
     )
