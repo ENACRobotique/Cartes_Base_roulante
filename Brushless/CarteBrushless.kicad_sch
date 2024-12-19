@@ -6587,12 +6587,6 @@
 		(uuid "c04a1d54-b94d-4279-9037-a6eb4ee95e97")
 	)
 	(junction
-		(at 66.04 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c8807d79-dbfe-41f2-a1d8-55a251f71bf5")
-	)
-	(junction
 		(at 163.83 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6627,6 +6621,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de65b6a7-a736-4d73-b49b-6073e4092362")
+	)
+	(junction
+		(at 66.04 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e023b289-fe40-45c6-b053-7f41fb76b583")
 	)
 	(junction
 		(at 140.97 33.02)
@@ -7464,6 +7464,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 44.45) (xy 52.07 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72cb7eba-2eaa-44fa-955c-fd17594d230e")
+	)
+	(wire
+		(pts
 			(xy 46.99 105.41) (xy 46.99 106.68)
 		)
 		(stroke
@@ -7491,16 +7501,6 @@
 			(type default)
 		)
 		(uuid "751d3489-000a-49fe-8a45-a4c4e1fdad57")
-	)
-	(wire
-		(pts
-			(xy 50.8 44.45) (xy 66.04 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75b29988-9f33-4490-b9ef-0f5137b86ae8")
 	)
 	(wire
 		(pts
@@ -8091,6 +8091,16 @@
 			(type default)
 		)
 		(uuid "e2bd42f3-4e6d-4bff-817b-0a4a969ca7cb")
+	)
+	(wire
+		(pts
+			(xy 59.69 44.45) (xy 66.04 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2eb566d-a336-4c47-87ff-b8039c997ca4")
 	)
 	(wire
 		(pts
@@ -11810,7 +11820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "100u"
 			(at 71.12 58.42 0)
 			(effects
 				(font
@@ -11819,7 +11829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder"
 			(at 70.8152 59.69 0)
 			(effects
 				(font
@@ -11828,7 +11838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://docs.rs-online.com/601e/0900766b81110dfe.pdf"
+		(property "Datasheet" "https://docs.rs-online.com/5541/0900766b815b82a1.pdf"
 			(at 69.85 55.88 0)
 			(effects
 				(font
@@ -11846,7 +11856,7 @@
 				(hide yes)
 			)
 		)
-		(property "RS" "https://fr.rs-online.com/web/p/condensateurs-ceramique-multicouches/7661104"
+		(property "RS" "https://fr.rs-online.com/web/p/condensateurs-tantale/1359884?searchId=5f999e37-8b6c-46c8-85bd-4dcc7cb65396&gb=s"
 			(at 69.85 55.88 0)
 			(effects
 				(font
@@ -12245,7 +12255,7 @@
 		(dnp no)
 		(uuid "4c3b6367-d699-4c4b-9077-632f3df64f19")
 		(property "Reference" "ZENER1"
-			(at 50.8 45.72 90)
+			(at 51.054 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16436,6 +16446,91 @@
 			(project "Carte_Base_roulante_2024"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 55.88 44.45 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "de10d824-7dd6-40de-b04d-418e49ff9fd5")
+		(property "Reference" "D1"
+			(at 55.372 42.164 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D"
+			(at 53.594 42.164 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+			(at 55.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 55.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 55.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 55.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e899333-2e18-4a7c-9b57-297308f014ed")
+		)
+		(pin "2"
+			(uuid "f2be17d4-8b4b-4631-bfd7-d5b791e744e4")
+		)
+		(instances
+			(project "CarteBrushless"
+				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
+					(reference "D1")
 					(unit 1)
 				)
 			)
