@@ -8829,7 +8829,7 @@
 	)
 	(global_label "SWDIO"
 		(shape input)
-		(at 77.47 100.33 0)
+		(at 77.47 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8839,7 +8839,7 @@
 		)
 		(uuid "15ff3ef4-22f9-4a24-a29e-e1ffff90ae75")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.3214 100.33 0)
+			(at 86.3214 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9423,7 +9423,7 @@
 	)
 	(global_label "SWCLK"
 		(shape input)
-		(at 77.47 102.87 0)
+		(at 77.47 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9433,7 +9433,7 @@
 		)
 		(uuid "abdf1e62-3225-45aa-8f5f-4d569d1811b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.6842 102.87 0)
+			(at 86.6842 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12328,7 +12328,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 110.49 90)
+		(at 77.47 100.33 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12338,7 +12338,7 @@
 		(fields_autoplaced yes)
 		(uuid "4988042f-7038-4942-abee-2621d9d4ecc8")
 		(property "Reference" "#PWR030"
-			(at 83.82 110.49 0)
+			(at 83.82 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12347,7 +12347,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 110.49 90)
+			(at 81.28 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12356,7 +12356,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 110.49 0)
+			(at 77.47 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12365,7 +12365,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 110.49 0)
+			(at 77.47 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12374,7 +12374,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 110.49 0)
+			(at 77.47 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13451,7 +13451,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 77.47 107.95 270)
+		(at 77.47 102.87 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13461,7 +13461,7 @@
 		(fields_autoplaced yes)
 		(uuid "7181e1af-f565-4c20-a5e5-15965a134595")
 		(property "Reference" "#PWR031"
-			(at 73.66 107.95 0)
+			(at 73.66 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13470,7 +13470,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 81.28 107.95 90)
+			(at 81.28 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13479,7 +13479,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 107.95 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13488,7 +13488,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 107.95 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13497,7 +13497,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 107.95 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15392,7 +15392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_CLIK-Mate_502382-0570_1x05-1MP_P1.25mm_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53398-0571_1x05-1MP_P1.25mm_Vertical"
 			(at 72.39 105.41 0)
 			(effects
 				(font
