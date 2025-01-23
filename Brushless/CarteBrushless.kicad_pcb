@@ -113,7 +113,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -19762,7 +19762,7 @@
 		)
 	)
 	(gr_text "UART"
-		(at 97.032678 100.586 -90)
+		(at 95.5 100 0)
 		(layer "F.SilkS")
 		(uuid "5cfacf21-d3c6-4567-8089-e224d1eabdf5")
 		(effects
@@ -19781,6 +19781,18 @@
 			(font
 				(size 0.8 0.8)
 				(thickness 0.16)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "RX"
+		(at 96 103.5 0)
+		(layer "F.SilkS")
+		(uuid "6c07413a-d383-418d-85f4-7f53bdbab642")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -19805,6 +19817,18 @@
 			(font
 				(size 0.8 0.8)
 				(thickness 0.16)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TX"
+		(at 96 102 0)
+		(layer "F.SilkS")
+		(uuid "76d85d55-e4a0-46f7-83c8-56ff3c5290e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -19869,6 +19893,18 @@
 				(size 0.8 0.8)
 				(thickness 0.153)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 95.5 105 0)
+		(layer "F.SilkS")
+		(uuid "90b12c8b-d2ec-442d-a4f4-cba9b2fcbc6b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
