@@ -15280,6 +15280,15 @@
 				(hide yes)
 			)
 		)
+		(property "Ref RS" "144-6290"
+			(at 78.74 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dbce6840-66ac-4a7d-a598-df1f4947a3b2")
 		)
