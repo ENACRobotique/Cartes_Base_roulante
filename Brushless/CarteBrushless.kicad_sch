@@ -8526,7 +8526,7 @@
 	)
 	(text "Valeurs des R_leds marqué \"osef\" (il y en a 3 )\nElles sont reliées à des leds donc on peut les choisir après"
 		(exclude_from_sim no)
-		(at 150.114 165.354 0)
+		(at 108.204 187.706 0)
 		(effects
 			(font
 				(size 3 3)
@@ -8601,12 +8601,12 @@
 		)
 		(uuid "48af1f70-6194-421a-bde6-1de7dd38414b")
 	)
-	(text "VERIFIER:\n- l'ordre des pins de molex\n- Les valeurs de resistances\n  de terminaison"
+	(text "Pour la prochaine itération : \n- Attention au XT30"
 		(exclude_from_sim no)
-		(at 108.458 193.802 0)
+		(at 223.52 166.116 0)
 		(effects
 			(font
-				(size 5.08 5.08)
+				(size 3.81 3.81)
 				(thickness 2.54)
 				(bold yes)
 				(color 255 0 0 1)
@@ -8680,20 +8680,6 @@
 			(justify left bottom)
 		)
 		(uuid "be2ca851-a883-48aa-9942-4c0ffb9c33e2")
-	)
-	(text "- Check !\n- Check !"
-		(exclude_from_sim no)
-		(at 231.14 185.928 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 2.54)
-				(bold yes)
-				(color 0 194 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "f7f13564-ab8d-4bd7-b2d2-d4d473f170fa")
 	)
 	(text "Connectique USB UART DEBUG"
 		(exclude_from_sim no)
@@ -12147,7 +12133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Ref RS" "    766-1104"
+		(property "Ref RS" "135-9884"
 			(at 69.85 55.88 0)
 			(effects
 				(font
@@ -14043,7 +14029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Equivalent au IRF7404"
 			(at 43.18 46.99 0)
 			(effects
 				(font
@@ -15130,6 +15116,24 @@
 		)
 		(property "MFR" "Abracon"
 			(at 81.28 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RS" "171-2862"
+			(at 81.28 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnel" "3573056"
+			(at 81.28 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
