@@ -555,9 +555,8 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.43 0)
+			(at -1.018322 -1.148 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4650c2d0-45f0-4a9b-9d39-1edfdc71eb7e")
 			(effects
 				(font
@@ -1013,7 +1012,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Equivalent au IRF7404"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1961,6 +1960,7 @@
 		(property "Reference" "Transfo5->3.3"
 			(at -0.152 0.037 180)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ef2ef632-68e8-4b78-9df9-1dc43b80973f")
 			(effects
 				(font
@@ -3175,17 +3175,6 @@
 			(layer "F.CrtYd")
 			(uuid "846d9c5d-e27d-4322-8fb8-01cad989982d")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "7c575543-3eea-42f1-8523-3427fe71880d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
@@ -3331,8 +3320,8 @@
 				)
 			)
 		)
-		(property "Value" "osef"
-			(at 2.2575 0.022 180)
+		(property "Value" "850"
+			(at 1.6125 0.022 180)
 			(layer "F.Fab")
 			(uuid "6c1c7e5a-daeb-41d5-b991-b436f14778a2")
 			(effects
@@ -5018,17 +5007,6 @@
 			(layer "F.CrtYd")
 			(uuid "bd5a2417-6455-4070-ad8e-f0de1e80122f")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "ff4944c3-8fb0-45e4-af64-ac298e5c0bea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
@@ -5056,7 +5034,7 @@
 			)
 		)
 		(property "Value" "5.1K"
-			(at -0.127 -1.778 0)
+			(at -0.280322 1.305 0)
 			(layer "F.Fab")
 			(uuid "ac1e11c1-97db-43d9-be93-10c45ec18d54")
 			(effects
@@ -6741,96 +6719,6 @@
 			)
 		)
 	)
-	(footprint "ENAC_robotique:EC-Registration"
-		(layer "F.Cu")
-		(uuid "4adbbc56-9187-462e-8b8a-f7198a2864e8")
-		(at 90 30)
-		(property "Reference" "REF**"
-			(at 6 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "25bd52ff-694d-4b50-b9be-2ec96f9b658b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "EC-Registration"
-			(at 0 5.5 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9fb45b99-e436-4414-9211-a9063314d4e1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "ENAC_robotique:EC-Registration"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "689f2e62-090c-431b-854b-4360765f7078")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d838ac73-1c1e-4e0d-a9c0-1725cf269a67")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "58cf2ac0-2b79-4a15-ad68-b6c3d7129fe4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr smd)
-		(fp_text user "${REFERENCE}"
-			(at 0 7.5 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3fa8dabf-1f12-4c2c-bf43-4ae26a91e795")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd circle
-			(at 0 0)
-			(size 5.05 5.05)
-			(layers "F.Cu" "F.Paste")
-			(uuid "2e8aa9d1-ecef-4dc8-885e-c3e88dad4cfe")
-		)
-	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "4c9f66dc-a0e5-49c5-976e-262f4023404f")
@@ -7289,96 +7177,6 @@
 			)
 		)
 	)
-	(footprint "ENAC_robotique:EC-Registration"
-		(layer "F.Cu")
-		(uuid "54154fa3-a35d-4344-830c-eb402d670fa9")
-		(at 140 30)
-		(property "Reference" "REF**"
-			(at 6 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "25bd52ff-694d-4b50-b9be-2ec96f9b658b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "EC-Registration"
-			(at 0 5.5 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9fb45b99-e436-4414-9211-a9063314d4e1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "ENAC_robotique:EC-Registration"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "689f2e62-090c-431b-854b-4360765f7078")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d838ac73-1c1e-4e0d-a9c0-1725cf269a67")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "58cf2ac0-2b79-4a15-ad68-b6c3d7129fe4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr smd)
-		(fp_text user "${REFERENCE}"
-			(at 0 7.5 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3fa8dabf-1f12-4c2c-bf43-4ae26a91e795")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd circle
-			(at 0 0)
-			(size 5.05 5.05)
-			(layers "F.Cu" "F.Paste")
-			(uuid "2e8aa9d1-ecef-4dc8-885e-c3e88dad4cfe")
-		)
-	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "57c828b6-a9d0-4bfd-b357-57c080535fea")
@@ -7472,17 +7270,6 @@
 			(layer "F.CrtYd")
 			(uuid "c53d9197-4518-45dd-a8f0-fa8d8117f5cd")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "d8749042-98dc-4ccf-8ed7-e4c9b148a24e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
@@ -7572,7 +7359,7 @@
 				)
 			)
 		)
-		(property "Ref RS" "    766-1104"
+		(property "Ref RS" "135-9884"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7759,7 +7546,7 @@
 			)
 		)
 		(property "Value" "5.1K"
-			(at 0 1.778 0)
+			(at 0.343322 -1.051 0)
 			(layer "F.Fab")
 			(uuid "5eb6e141-c1cb-4b79-9988-8b52b96e451b")
 			(effects
@@ -10728,6 +10515,19 @@
 				)
 			)
 		)
+		(property "Ref RS" "144-6290"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a1bb7af-108a-487f-a43a-08d0f842a759")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Converter*DCDC*RECOM*R*78E*0.5*")
 		(path "/a55ee112-0f6c-43c6-9702-21e56cfea5a7")
 		(sheetname "Racine")
@@ -10882,17 +10682,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "d86a0f24-bd44-48d4-9b31-2b76c1295e6c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.25 90)
-			(layer "F.Fab")
-			(uuid "e426da56-40ee-45c1-9c2e-e0762a90b60b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole rect
 			(at 0 0 270)
@@ -11289,7 +11078,7 @@
 		(descr "Crystal Clock Oscillator Abracon")
 		(tags "SMD SMT Oscillator")
 		(property "Reference" "QUARTZ1"
-			(at 2.54 0.209 0)
+			(at 2.54 0.209 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fadc112a-315c-47c3-bede-407393f9b2af")
@@ -11301,9 +11090,8 @@
 			)
 		)
 		(property "Value" "ASCO"
-			(at 1.778 0.209 0)
+			(at 1.778 0.209 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "8aa3f207-4cdc-451c-8d47-8cd204c25483")
 			(effects
 				(font
@@ -11313,7 +11101,7 @@
 			)
 		)
 		(property "Footprint" "ENAC_robotique:Osc_ASCO"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4cb8ee83-77c9-490a-9046-84eba979662e")
@@ -11325,7 +11113,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0e3ddd01-c180-4c71-b05b-5e152ff2716f")
@@ -11337,7 +11125,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "748076ce-d5b7-4149-911a-5d5434165aa7")
@@ -11349,10 +11137,36 @@
 			)
 		)
 		(property "MFR" "Abracon"
-			(at -0.591 220.323 0)
+			(at -0.591 220.323 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "13015ec3-9f58-40cb-8ed8-4ea066699948")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RS" "171-2862"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "367641c0-36a0-41d5-8f63-27d757c5f986")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Farnel" "3573056"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56380213-7225-4085-a5dd-6998fa92a6f0")
 			(effects
 				(font
 					(size 1 1)
@@ -15625,7 +15439,7 @@
 				)
 			)
 		)
-		(property "Value" "osef"
+		(property "Value" "500"
 			(at -3.556 -0.127 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16228,17 +16042,6 @@
 			(layer "F.CrtYd")
 			(uuid "af7ea819-7540-4fb6-9279-1be9f8e00fa3")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "6f9aa75e-1f76-450a-8330-32aacacb5a68")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
@@ -16265,7 +16068,7 @@
 				)
 			)
 		)
-		(property "Value" "osef"
+		(property "Value" "500"
 			(at 2.7155 -1.038 0)
 			(layer "F.Fab")
 			(uuid "a192920c-d2c5-42a4-8bdf-4166ad6b5d04")
@@ -20141,6 +19944,162 @@
 				(thickness 0.3)
 				(bold yes)
 			)
+		)
+	)
+	(gr_text "LM3940IMP"
+		(at 94.361 111.506 0)
+		(layer "F.Fab")
+		(uuid "110ddd30-6565-4122-8010-1aa2737bece6")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 102.489 106.045 0)
+		(layer "F.Fab")
+		(uuid "11432103-6cb5-4acd-8373-69094884015d")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TCAN332G"
+		(at 117.423678 89.064 0)
+		(layer "F.Fab")
+		(uuid "5062d533-67b1-4add-84a1-2ce9c67cfc93")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "IRF7424"
+		(at 108.458 106.172 0)
+		(layer "F.Fab")
+		(uuid "575eb130-4168-45d7-aeca-0e05bd72f198")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Diode"
+		(at 106.045 64.643 0)
+		(layer "F.Fab")
+		(uuid "6d63de43-0548-49fe-a942-f5924f9d35e0")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ZENER"
+		(at 106.426 101.6 0)
+		(layer "F.Fab")
+		(uuid "6d9c5fb0-69c1-4ce7-95d1-e3ab895ed1ad")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Diode"
+		(at 120.523 104.267 0)
+		(layer "F.Fab")
+		(uuid "8069fc90-ba44-4f57-9d6f-4fdc7480af05")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "R-78E5.0-1.0"
+		(at 125.73 118.872 90)
+		(layer "F.Fab")
+		(uuid "842b22e3-1b42-4ffc-bc5f-a9c19a26c0cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 93.726 80.264 90)
+		(layer "F.Fab")
+		(uuid "ad2975f8-7fb9-4f72-b845-56164f238d49")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "LED"
+		(at 102.235 103.632 0)
+		(layer "F.Fab")
+		(uuid "b9a276e2-1a02-49b4-9417-bf6f14c2ca56")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Bouton"
+		(at 99.441 59.436 0)
+		(layer "F.Fab")
+		(uuid "c63dd34d-659f-4ceb-8228-e01203ac427a")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 93.726 86.614 90)
+		(layer "F.Fab")
+		(uuid "e3257d6f-add2-45c1-8507-68924217d681")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Diode"
+		(at 116.205 118.237 0)
+		(layer "F.Fab")
+		(uuid "f31748e2-6387-44fa-b633-a41d6974bac5")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment

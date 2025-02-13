@@ -9861,7 +9861,7 @@
 			(uuid "579fcb93-e8ae-43c8-883b-d7b1e122c8ef")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR027")
 					(unit 1)
@@ -9927,7 +9927,7 @@
 			(uuid "90f53273-5787-49ad-9b4a-4e71f5ca1f25")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR048")
 					(unit 1)
@@ -9992,7 +9992,7 @@
 			(uuid "aa9802e3-36b8-4638-bac7-3ecf41c6f962")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR045")
 					(unit 1)
@@ -10318,7 +10318,7 @@
 			(uuid "ab5b8965-0f7d-4c48-bfc8-962c9f33507e")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "U1")
 					(unit 1)
@@ -10387,7 +10387,7 @@
 			(uuid "74353168-6d43-4f7e-8699-5975388b287f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C9")
 					(unit 1)
@@ -10454,7 +10454,7 @@
 			(uuid "6039ec2d-0cbf-4bb7-bfe3-dbce30daaaa5")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR019")
 					(unit 1)
@@ -10666,7 +10666,7 @@
 			(uuid "f432352b-56ac-43e3-877c-40111cf128f6")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C10")
 					(unit 1)
@@ -10732,7 +10732,7 @@
 			(uuid "a7b6a088-e44d-4fc2-b013-49c9c6fac97d")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR035")
 					(unit 1)
@@ -10797,7 +10797,7 @@
 			(uuid "bb3ba8ca-a1a3-4366-a819-250b64a9bb43")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#FLG03")
 					(unit 1)
@@ -10882,7 +10882,7 @@
 			(uuid "329a3b30-8aaf-40f9-8661-125759387734")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "D3")
 					(unit 1)
@@ -10951,7 +10951,7 @@
 			(uuid "c66e0940-bd16-4152-9c36-9987e7496182")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C12")
 					(unit 1)
@@ -11017,7 +11017,7 @@
 			(uuid "c8651661-5f9c-4114-9df8-2abafcb813ad")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR032")
 					(unit 1)
@@ -11084,7 +11084,7 @@
 			(uuid "c7fab201-ba9f-4918-8d24-dcd3d53497cb")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR049")
 					(unit 1)
@@ -11149,7 +11149,7 @@
 			(uuid "c131daf1-1b46-471c-a48f-f38be95cb145")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#FLG01")
 					(unit 1)
@@ -11215,7 +11215,7 @@
 			(uuid "97f7c1d4-223d-4e13-bf98-a4f3e3119950")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR042")
 					(unit 1)
@@ -11347,7 +11347,7 @@
 			(uuid "65a91108-7aa5-480c-8038-8c34d7a088a1")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "TP_GND1")
 					(unit 1)
@@ -11436,7 +11436,7 @@
 			(uuid "cbd8fb21-39c0-48c3-aaef-27a4c8b5cbcc")
 		)
 		(instances
-			(project ""
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "U2")
 					(unit 1)
@@ -11506,7 +11506,7 @@
 			(uuid "64bf9c4f-9463-4506-8dc1-a56cc0a2198f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "D5")
 					(unit 1)
@@ -11525,21 +11525,19 @@
 		(fields_autoplaced yes)
 		(uuid "2b350963-0a89-457a-b71b-6302988ba9d9")
 		(property "Reference" "R6"
-			(at 34.29 167.64 0)
+			(at 35.56 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "osef"
-			(at 36.83 167.64 0)
+		(property "Value" "500"
+			(at 35.56 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
@@ -11576,7 +11574,7 @@
 			(uuid "e4448a9d-9da9-4ede-850e-846c7f1d6cc6")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R6")
 					(unit 1)
@@ -11641,7 +11639,7 @@
 			(uuid "91ce8595-57fb-4a3e-82bf-8370ffc7aebd")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "TP_CS1")
 					(unit 1)
@@ -11710,7 +11708,7 @@
 			(uuid "6a622e7f-cd21-4fc0-8822-bf801e6f97dd")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C7")
 					(unit 1)
@@ -11782,7 +11780,7 @@
 			(uuid "b5f4e1ce-2773-43ca-a252-f8e807cc7aa1")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "UART1")
 					(unit 1)
@@ -11860,7 +11858,7 @@
 			(uuid "739b38f9-7aa6-43b8-aa9d-1c5461fb476e")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C11")
 					(unit 1)
@@ -11925,7 +11923,7 @@
 			(uuid "3d86d408-1449-4919-bc46-79833fedcc04")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "TP_MISO1")
 					(unit 1)
@@ -11991,7 +11989,7 @@
 			(uuid "f00867b2-c9a0-4d3c-8202-295295032c10")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR039")
 					(unit 1)
@@ -12149,7 +12147,7 @@
 			(uuid "d6282097-3d79-4fb7-9b96-28c04a7f2aeb")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C23")
 					(unit 1)
@@ -12215,7 +12213,7 @@
 			(uuid "dab0b24a-d7ca-4d71-826b-769f7c2c212f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR033")
 					(unit 1)
@@ -12304,7 +12302,7 @@
 			(uuid "5c05759e-9ac0-432c-b382-56bb7bdc8d81")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "SWITCH1")
 					(unit 1)
@@ -12372,7 +12370,7 @@
 			(uuid "64ff8043-4151-4207-8a98-eae25d4bc08f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR030")
 					(unit 1)
@@ -12438,7 +12436,7 @@
 			(uuid "a621951b-ef9e-4f44-87f6-8d4b3b9af720")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR025")
 					(unit 1)
@@ -12505,7 +12503,7 @@
 			(uuid "6837305a-12f6-4925-8257-f80ffccc5426")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR026")
 					(unit 1)
@@ -12575,7 +12573,7 @@
 			(uuid "a73aebf4-8e26-4f3a-ae31-536db79f139f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "ZENER1")
 					(unit 1)
@@ -12641,7 +12639,7 @@
 			(uuid "7be8566d-38fe-45b3-8a58-1e62e4425c77")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR044")
 					(unit 1)
@@ -12660,21 +12658,19 @@
 		(fields_autoplaced yes)
 		(uuid "51d49690-ee49-480d-80cf-1c99b84d4004")
 		(property "Reference" "R10"
-			(at 34.29 181.61 0)
+			(at 35.56 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "osef"
-			(at 36.83 181.61 0)
+		(property "Value" "500"
+			(at 35.56 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
@@ -12711,7 +12707,7 @@
 			(uuid "73c0bcb0-489f-44df-9938-d31c2cccb25d")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R10")
 					(unit 1)
@@ -12778,7 +12774,7 @@
 			(uuid "afd6621e-f280-43fa-9353-151f3e28de74")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR052")
 					(unit 1)
@@ -12853,7 +12849,7 @@
 					(unit 1)
 				)
 			)
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "ALIM1")
 					(unit 1)
@@ -12922,7 +12918,7 @@
 			(uuid "f09ff78b-58b9-43d3-a4aa-2df18acbf693")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C15")
 					(unit 1)
@@ -12995,7 +12991,7 @@
 			(uuid "a4e4a0b9-0a86-4457-8898-dad2fc6d36ce")
 		)
 		(instances
-			(project ""
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "J1")
 					(unit 1)
@@ -13132,7 +13128,7 @@
 			(uuid "a6c27e4a-9ddc-4590-bbfc-1f13296fe4d5")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R3")
 					(unit 1)
@@ -13219,7 +13215,7 @@
 			(uuid "ae3f02cf-34ef-4ce7-9fe8-27e6744f90db")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C24")
 					(unit 1)
@@ -13295,7 +13291,7 @@
 			(uuid "6049bb79-984f-4884-aa86-194b91880b40")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "Transfo5->3.3")
 					(unit 1)
@@ -13360,7 +13356,7 @@
 			(uuid "1a24abb6-c5cf-4712-973e-cd1a74af127c")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "TP_MOSI1")
 					(unit 1)
@@ -13495,7 +13491,7 @@
 			(uuid "c297999a-9064-4a00-9f9a-3fa1a0c2a6b6")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR031")
 					(unit 1)
@@ -13562,7 +13558,7 @@
 			(uuid "8100b1e1-efb9-437a-8caa-0f758120a30b")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR047")
 					(unit 1)
@@ -13629,7 +13625,7 @@
 			(uuid "fd690521-f43b-4b83-acbd-b16e060564fe")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR046")
 					(unit 1)
@@ -13764,7 +13760,7 @@
 			(uuid "f876d653-560d-4620-bbb0-2aa93d5f7bca")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR020")
 					(unit 1)
@@ -13834,7 +13830,7 @@
 			(uuid "af8d377e-06e2-4d4a-b7db-69ee6df77d42")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R4")
 					(unit 1)
@@ -13908,7 +13904,7 @@
 			(uuid "b24e2084-f0ce-4ced-8b32-c3c85e06487f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "TP_SCK1")
 					(unit 1)
@@ -13974,7 +13970,7 @@
 			(uuid "47e97697-aff8-4f55-9fdc-18d2ae0aa266")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR028")
 					(unit 1)
@@ -14063,7 +14059,7 @@
 			(uuid "cac40419-4ba6-46da-880b-e4cde96ceaaf")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "Q2")
 					(unit 1)
@@ -14132,7 +14128,7 @@
 			(uuid "e7b0fdc1-66d9-4618-a214-d493cfc7ae46")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C16")
 					(unit 1)
@@ -14210,7 +14206,7 @@
 			(uuid "a8e62867-1fcd-4e01-b4b6-7a0054abac71")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C20")
 					(unit 1)
@@ -14229,7 +14225,7 @@
 		(fields_autoplaced yes)
 		(uuid "85ad8fae-0e09-4c00-846f-0d4a7ad6012a")
 		(property "Reference" "R5"
-			(at 105.41 43.18 0)
+			(at 105.41 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14237,8 +14233,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "osef"
-			(at 105.41 45.72 0)
+		(property "Value" "850"
+			(at 105.41 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14280,7 +14276,7 @@
 			(uuid "e7b5b282-52d8-416e-b86d-c3ccc0879bf6")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R5")
 					(unit 1)
@@ -14419,7 +14415,7 @@
 			(uuid "a5eb132f-35d8-40a9-8f6f-dd98010c0eda")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR051")
 					(unit 1)
@@ -14485,7 +14481,7 @@
 			(uuid "51aeca40-d6fa-4336-8145-8e67c6fb0ac9")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR041")
 					(unit 1)
@@ -14602,7 +14598,7 @@
 			(uuid "448ea85c-2937-4e80-aa5b-86b0b9a2e4a5")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "IMU1")
 					(unit 1)
@@ -14671,7 +14667,7 @@
 			(uuid "e5ad06b1-874e-4457-941c-6de59f5b204e")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "LED1")
 					(unit 1)
@@ -14749,7 +14745,7 @@
 			(uuid "3a74d541-a601-4dc0-9795-83b74b791c4f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C22")
 					(unit 1)
@@ -14818,7 +14814,7 @@
 			(uuid "117976e5-e83d-4b06-a9b1-2175bdc42ced")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C14")
 					(unit 1)
@@ -14920,7 +14916,7 @@
 			(uuid "c8135f56-5f81-4e86-9e9f-675bfd7647e7")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "USB-C1")
 					(unit 1)
@@ -14990,7 +14986,7 @@
 			(uuid "9e10108d-f3db-41c0-8d4f-031721cfb9a7")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R2")
 					(unit 1)
@@ -15053,7 +15049,7 @@
 			)
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "H4")
 					(unit 1)
@@ -15154,7 +15150,7 @@
 			(uuid "e120db0f-3c12-4376-a4b6-df7d45375ee6")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "QUARTZ1")
 					(unit 1)
@@ -15303,7 +15299,7 @@
 			(uuid "65c02717-179a-4b2b-9365-395822b93ae1")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "Transfo18->5")
 					(unit 1)
@@ -15448,7 +15444,7 @@
 			(uuid "cc8842e5-1008-49d5-835b-412987ccb9a4")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "DEBUG1")
 					(unit 1)
@@ -15517,7 +15513,7 @@
 			(uuid "c09796e4-18eb-4722-9e1c-19bd58ee2011")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "LED2")
 					(unit 1)
@@ -15586,7 +15582,7 @@
 			(uuid "3114cbbf-d993-4e36-a436-4ee16820790f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C18")
 					(unit 1)
@@ -15649,7 +15645,7 @@
 			)
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "H1")
 					(unit 1)
@@ -15798,7 +15794,7 @@
 			(uuid "bcc67e5b-0375-4bff-a6b1-b670ece11fd8")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C19")
 					(unit 1)
@@ -15867,7 +15863,7 @@
 			(uuid "fcbb5e4d-e37e-40e3-888a-f28dccfe4c9f")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C8")
 					(unit 1)
@@ -16004,7 +16000,7 @@
 			(uuid "7b535b25-d171-4f0f-a1a1-63e2b6c6e818")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR029")
 					(unit 1)
@@ -16073,7 +16069,7 @@
 			(uuid "6d2dec17-7f4a-4443-a396-848cb07b0127")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C13")
 					(unit 1)
@@ -16209,7 +16205,7 @@
 			(uuid "8255d7f4-df1b-4fa7-a393-3020b393972b")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R7")
 					(unit 1)
@@ -16276,7 +16272,7 @@
 			(uuid "118bf387-0458-4ff0-a398-5a2ec6194591")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR050")
 					(unit 1)
@@ -16342,7 +16338,7 @@
 			(uuid "ab2eadce-087f-42e5-b14b-f8fbde2b9b36")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR034")
 					(unit 1)
@@ -16405,7 +16401,7 @@
 			)
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "H2")
 					(unit 1)
@@ -16471,7 +16467,7 @@
 			(uuid "7ef37c71-5d63-4071-820e-6d5c66566c3d")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#FLG02")
 					(unit 1)
@@ -16538,7 +16534,7 @@
 			(uuid "b47ef948-a33b-4983-8bcd-1f522958455d")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR040")
 					(unit 1)
@@ -16737,7 +16733,7 @@
 			(uuid "8472184e-fe23-4e5a-be75-873612c08344")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR016")
 					(unit 1)
@@ -16888,7 +16884,7 @@
 			(uuid "ecebc028-584f-45b4-b9e5-ddf3ab005603")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR043")
 					(unit 1)
@@ -16973,7 +16969,7 @@
 			(uuid "88b5ab23-f69a-41fc-92f0-393f8228480d")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "D2")
 					(unit 1)
@@ -17106,7 +17102,7 @@
 			(uuid "43280678-8f28-4699-89e3-d0abe7bd2958")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR021")
 					(unit 1)
@@ -17169,7 +17165,7 @@
 			)
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "H3")
 					(unit 1)
@@ -17304,7 +17300,7 @@
 			(uuid "7377996e-b1c2-40e8-bc16-975146ed4dc8")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R9")
 					(unit 1)
@@ -17370,7 +17366,7 @@
 			(uuid "a3e969bb-6f32-4bb0-99c0-11bd4eabde31")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#PWR017")
 					(unit 1)
@@ -17440,7 +17436,7 @@
 			(uuid "cca5011f-735f-4dc1-a9f0-aeb7ec06d731")
 		)
 		(instances
-			(project ""
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "JP1")
 					(unit 1)
@@ -17509,7 +17505,7 @@
 			(uuid "688f8758-e34a-43ce-8edb-f6341da1d619")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "R8")
 					(unit 1)
@@ -17578,7 +17574,7 @@
 			(uuid "ac2ed3a6-dd30-4c0d-92d5-2efc729ec3d8")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C17")
 					(unit 1)
@@ -17656,7 +17652,7 @@
 			(uuid "3e0d78d3-4e49-448e-a05a-2fbac5c38bda")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "C21")
 					(unit 1)
@@ -17788,7 +17784,7 @@
 			(uuid "b5708798-4f87-4302-b0f7-4db3a743b4b1")
 		)
 		(instances
-			(project "Carte_Base_roulante_2024"
+			(project "CarteBrushless"
 				(path "/f941aee9-3a44-439b-9c30-032c53e86031"
 					(reference "#FLG04")
 					(unit 1)
